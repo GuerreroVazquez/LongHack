@@ -1,0 +1,353 @@
+#%result_name=Analysis_6
+#%array_type=HuGene-2_1-st
+#%annotation=HuGene-2_1-st-v1.na36.hg19.transcript.csv
+#%comparison=POST vs PRE
+ID	POST Avg (log2)	PRE Avg (log2)	Fold Change	P-val	FDR P-val	Gene Symbol	Description
+16736628	8.55	9.76	-2.33	1.19E-09	5.76E-05	CSRP3	cysteine and glycine-rich protein 3 (cardiac LIM protein)
+16982921	2.97	5.17	-4.59	5.37E-09	0.0001	LOC105374634	uncharacterized LOC105374634
+16951191	3.59	4.87	-2.43	1.61E-08	0.0003	COLQ	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase
+16857068	5.33	7.76	-5.38	2.35E-08	0.0003	NMRK2	nicotinamide riboside kinase 2
+16939718	5.7	6.86	-2.23	4.55E-08	0.0004	KLHL40	kelch-like family member 40
+16844294	8.04	8.89	-1.81	4.88E-08	0.0004	NR1D1	nuclear receptor subfamily 1, group D, member 1
+16909775	2.4	3.53	-2.19	5.82E-08	0.0004		
+16909760	3.87	4.74	-1.83	8.55E-08	0.0005	ASB18	ankyrin repeat and SOCS box containing 18
+16987076	3.83	4.85	-2.02	1.17E-07	0.0006		
+16883074	5.6	6.8	-2.31	1.54E-07	0.0007	CNNM4	cyclin and CBS domain divalent metal cation transport mediator 4
+16823255	6.01	6.71	-1.62	1.80E-07	0.0007	HCFC1R1	host cell factor C1 regulator 1 (XPO1 dependent)
+16679064	10.29	10.9	-1.53	1.80E-07	0.0007	ACTN2	actinin, alpha 2
+17103951	5.35	4.38	1.96	2.32E-07	0.0009	TSPYL2	TSPY-like 2
+16954730	6.75	7.58	-1.78	3.16E-07	0.0011	TWF2	twinfilin actin binding protein 2
+16752542	2.95	4.16	-2.31	3.28E-07	0.0011	MYL6B	myosin light chain 6B
+16757051	4.75	6.96	-4.61	3.89E-07	0.0012	LINC01405	long intergenic non-protein coding RNA 1405
+16812685	6.39	7.07	-1.61	4.17E-07	0.0012	HOMER2	homer scaffolding protein 2
+16947729	3.9	4.64	-1.66	1.02E-06	0.0027		
+16803469	5.46	6.31	-1.8	1.51E-06	0.0038	DNAJA4	DnaJ (Hsp40) homolog, subfamily A, member 4
+17088230	3.49	4.17	-1.61	2.05E-06	0.0045	RGS3	regulator of G-protein signaling 3
+16945821	3.09	3.94	-1.81	2.07E-06	0.0045	TMEM108	transmembrane protein 108
+16795390	2.48	3.68	-2.3	2.45E-06	0.0050	LOC100506700	uncharacterized LOC100506700
+16728785	3.68	4.86	-2.26	2.47E-06	0.0050	LOC105369382	uncharacterized LOC105369382
+17062955	5.87	5.23	1.56	2.59E-06	0.0050	LINC-PINT	long intergenic non-protein coding RNA, p53 induced transcript
+16846543	4.28	5.32	-2.05	2.82E-06	0.0052		
+16765963	5.69	6.29	-1.52	3.43E-06	0.0061	ANKRD52	ankyrin repeat domain 52
+16850609	8.03	9.17	-2.2	3.62E-06	0.0062	MYL12A	myosin light chain 12A
+16683493	6.62	7.29	-1.6	3.76E-06	0.0063	MYOM3	myomesin 3
+16970132	7.4	8.82	-2.67	3.94E-06	0.0063	MYOZ2	myozenin 2
+16691333	7.72	9.02	-2.48	4.19E-06	0.0065	CASQ2	calsequestrin 2 (cardiac muscle)
+16817320	4.79	5.52	-1.66	5.62E-06	0.0080	SBK1	SH3 domain binding kinase 1
+16848318	8.21	7.51	1.63	6.27E-06	0.0086	ABCA5	ATP binding cassette subfamily A member 5
+16905528	3.85	3.03	1.77	6.54E-06	0.0088	PDE11A	phosphodiesterase 11A
+16759920	1.45	2.09	-1.56	7.52E-06	0.0095		
+16869299	4.74	5.57	-1.78	8.22E-06	0.0099	HOOK2	hook microtubule-tethering protein 2
+16877795	4.35	5.05	-1.62	8.22E-06	0.0099	EFR3B	EFR3 homolog B
+16660745	2.78	3.49	-1.63	9.92E-06	0.0116		
+17121832	4.01	3.39	1.54	1.01E-05	0.0116		
+16913014	4.5	5.77	-2.41	1.16E-05	0.0127	MYH7B	myosin, heavy chain 7B, cardiac muscle, beta
+17058878	4.93	5.64	-1.64	1.16E-05	0.0127	TMEM120A	transmembrane protein 120A
+16809645	4.6	3.94	1.59	1.23E-05	0.0132	MIR628	microRNA 628
+16919072	4.18	4.8	-1.54	1.32E-05	0.0139	MROH8	maestro heat-like repeat family member 8
+16900124	2.87	2.1	1.7	1.64E-05	0.0152	IGKV1-12; IGKV1D-12	immunoglobulin kappa variable 1-12; immunoglobulin kappa variable 1D-12
+16702254	5.36	6.18	-1.77	1.73E-05	0.0155	LOC102723721	uncharacterized LOC102723721
+16937152	5.22	6.26	-2.05	1.90E-05	0.0165	LINC00312; LMCD1	long intergenic non-protein coding RNA 312; LIM and cysteine-rich domains 1
+16912965	5.7	6.45	-1.69	2.48E-05	0.0196	TP53INP2	tumor protein p53 inducible nuclear protein 2
+16888349	2.83	3.92	-2.12	2.56E-05	0.0199	PPP1R1C	protein phosphatase 1, regulatory (inhibitor) subunit 1C
+16891662	6.64	5.77	1.82	2.77E-05	0.0212	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)
+16682077	8.54	9.17	-1.54	3.00E-05	0.0226	HSPB7	heat shock 27kDa protein family, member 7 (cardiovascular)
+16886677	7.9	7.25	1.57	3.39E-05	0.0243	GPD2	glycerol-3-phosphate dehydrogenase 2
+16861997	6.77	5.83	1.91	3.44E-05	0.0243	ZFP36	ZFP36 ring finger protein
+17012036	7.58	8.22	-1.55	3.58E-05	0.0243	VGLL2	vestigial-like family member 2
+17069716	3.47	2.65	1.77	3.58E-05	0.0243		
+16812168	3.05	3.73	-1.61	3.73E-05	0.0250		
+16896019	2.37	3.24	-1.82	4.14E-05	0.0270	LOC100505774	uncharacterized LOC100505774
+17125182	2.29	2.97	-1.61	4.30E-05	0.0273		
+16846687	5.97	4.81	2.23	4.74E-05	0.0293	CHAD	chondroadherin
+16943577	1.81	1.02	1.74	5.35E-05	0.0321		
+16820398	6.45	5.52	1.91	5.38E-05	0.0321	SLC7A6	solute carrier family 7 (amino acid transporter light chain, y+L system), member 6
+17109758	8.44	9.23	-1.72	6.72E-05	0.0371	SMPX	small muscle protein, X-linked
+17093227	2.75	3.52	-1.7	7.73E-05	0.0396	AQP7	aquaporin 7
+16778584	2.83	2.01	1.77	7.89E-05	0.0396	ENOX1	ecto-NOX disulfide-thiol exchanger 1
+17020532	5.39	6.01	-1.54	8.00E-05	0.0398		
+16678095	1.66	2.63	-1.95	8.67E-05	0.0427	LOC102723834	uncharacterized LOC102723834
+16723058	3.44	2.83	1.53	0.0001	0.0538	FIBIN	fin bud initiation factor homolog (zebrafish)
+16770165	10.73	11.38	-1.58	0.0001	0.0549	MYL2	myosin light chain 2
+16938630	7.85	8.48	-1.55	0.0001	0.0555	GPD1L	glycerol-3-phosphate dehydrogenase 1-like
+16949537	6.38	5.38	2	0.0001	0.0555	TP63	tumor protein p63
+16859942	4.78	5.5	-1.64	0.0001	0.0572	SLC25A42	solute carrier family 25, member 42
+16661031	2.17	2.87	-1.63	0.0001	0.0578	EXTL1	exostosin-like glycosyltransferase 1
+16954641	6.12	6.72	-1.51	0.0001	0.0578	PCBP4	poly(rC) binding protein 4
+16867334	3.79	4.55	-1.69	0.0002	0.0619	PLIN5	perilipin 5
+16938154	6	6.71	-1.64	0.0002	0.0626	OXNAD1	oxidoreductase NAD-binding domain containing 1
+17125112	4.73	5.44	-1.63	0.0002	0.0638		
+17011708	7.83	7.17	1.59	0.0002	0.0638	SLC16A10	solute carrier family 16 (aromatic amino acid transporter), member 10
+16929562	4.44	3.56	1.84	0.0002	0.0638	HMOX1	heme oxygenase 1
+16737260	5.25	5.91	-1.58	0.0002	0.0638	ABTB2	ankyrin repeat and BTB (POZ) domain containing 2
+16914277	0.95	1.57	-1.54	0.0002	0.0646		
+17012392	5.75	6.49	-1.68	0.0002	0.0646	RSPO3	R-spondin 3
+17109754	4.2	5.11	-1.88	0.0002	0.0646	KLHL34	kelch-like family member 34
+16947734	3.19	3.87	-1.61	0.0002	0.0678		
+17094240	3.81	4.7	-1.86	0.0002	0.0715	LOC101928195	monofunctional C1-tetrahydrofolate synthase, mitochondrial-like
+16687875	6.31	5.72	1.51	0.0002	0.0715	JUN	jun proto-oncogene
+16996820	7.17	6.46	1.64	0.0002	0.0715	LOC101928819	uncharacterized LOC101928819
+16871467	8.76	9.55	-1.72	0.0002	0.0716	HSPB6	heat shock protein, alpha-crystallin-related, B6
+16823290	4.48	5.14	-1.58	0.0003	0.0735	ZNF205-AS1	ZNF205 antisense RNA 1
+16775583	1.31	1.95	-1.56	0.0003	0.0735		
+16940161	1.52	2.81	-2.45	0.0003	0.0735	CCR3	chemokine (C-C motif) receptor 3
+16987073	4.63	5.29	-1.57	0.0003	0.0735		
+16952990	3.79	4.38	-1.51	0.0003	0.0761	PRSS45; PRSS43; PRSS50	protease, serine 45; protease, serine, 43; protease, serine 50
+16917849	3.19	3.78	-1.5	0.0003	0.0761	THBD	thrombomodulin
+17093463	6.65	5.99	1.58	0.0003	0.0761	CNTFR	ciliary neurotrophic factor receptor
+16829688	3.94	4.62	-1.61	0.0003	0.0777	LOC105371592	atherin-like
+16963241	5.92	6.65	-1.65	0.0003	0.0813	TFRC	transferrin receptor
+16997141	1.37	2.04	-1.59	0.0003	0.0813		
+16834395	4.5	5.1	-1.52	0.0003	0.0822	TUBG2	tubulin, gamma 2
+16938645	2.9	3.73	-1.77	0.0003	0.0826		
+16707631	4.93	4.35	1.5	0.0003	0.0826	PLCE1	phospholipase C, epsilon 1
+16707882	1.64	0.91	1.66	0.0003	0.0829		
+17120468	1.3	0.69	1.52	0.0003	0.0829		
+16697909	7.06	7.72	-1.58	0.0004	0.0849	TNNI1	troponin I type 1 (skeletal, slow)
+16685777	3.12	2.35	1.71	0.0004	0.0850		
+16777224	6.1	6.95	-1.81	0.0004	0.0881	XPO4	exportin 4
+16914901	2.34	1.63	1.64	0.0004	0.0882		
+16949562	2.21	1.42	1.74	0.0004	0.0901	MIR944	microRNA 944
+16758130	5.18	5.89	-1.64	0.0004	0.0907	ORAI1	ORAI calcium release-activated calcium modulator 1
+16920036	1.14	1.87	-1.66	0.0004	0.0910		
+16984182	3.58	2.55	2.05	0.0004	0.0910	LOC105374731	uncharacterized LOC105374731
+16792998	3.31	2.73	1.5	0.0004	0.0910	TXNDC16	thioredoxin domain containing 16
+17004455	1.43	2.06	-1.54	0.0004	0.0910		
+16989863	4.57	3.89	1.6	0.0004	0.0913	SNORA74A	small nucleolar RNA, H/ACA box 74A
+16664978	2.8	4.02	-2.33	0.0004	0.0922	ACOT11	acyl-CoA thioesterase 11
+16705961	6.16	5.2	1.94	0.0005	0.0937	DDIT4	DNA damage inducible transcript 4
+16698556	6.76	7.37	-1.52	0.0005	0.0956	SLC41A1	solute carrier family 41 (magnesium transporter), member 1
+17061296	2.48	1.71	1.7	0.0006	0.1052		
+16839796	2.38	3.2	-1.76	0.0006	0.1056		
+16757110	2.17	2.76	-1.51	0.0006	0.1056	LOC102723619	uncharacterized LOC102723619
+17088995	1.46	2.28	-1.77	0.0007	0.1104	MIR181A2	microRNA 181a-2
+17125288	3.75	4.62	-1.83	0.0007	0.1107		
+16682771	3.24	2.43	1.75	0.0007	0.1133	PLA2G2A	phospholipase A2, group IIA (platelets, synovial fluid)
+16812933	2.06	2.69	-1.54	0.0007	0.1141	LOC102724465	uncharacterized LOC102724465
+16752624	7.64	8.4	-1.7	0.0007	0.1141	COQ10A	coenzyme Q10A
+16867784	7.36	6.6	1.69	0.0007	0.1149	C3	complement component 3
+16978873	1.36	2	-1.55	0.0008	0.1166	ETNPPL	ethanolamine-phosphate phospho-lyase
+17015972	3.26	3.85	-1.51	0.0008	0.1166	NHLRC1	NHL repeat containing E3 ubiquitin protein ligase 1
+16928967	2.23	2.85	-1.54	0.0008	0.1197	MTFP1	mitochondrial fission process 1
+16677391	4.52	5.22	-1.62	0.0009	0.1251	PROX1	prospero homeobox 1
+16949988	2.26	3.4	-2.2	0.0009	0.1270		
+16967631	4.14	4.75	-1.52	0.0009	0.1274	SLC4A4	solute carrier family 4 (sodium bicarbonate cotransporter), member 4
+16724849	6.66	7.48	-1.76	0.0009	0.1274	SMTNL1	smoothelin-like 1
+16953021	5.94	6.72	-1.73	0.0010	0.1285		
+16696531	5.03	4.43	1.52	0.0010	0.1285		
+16987087	3.93	4.54	-1.52	0.0010	0.1285	MEF2C-AS1	MEF2C antisense RNA 1
+17117416	2.92	3.65	-1.66	0.0010	0.1289		
+16670454	3.78	5.11	-2.52	0.0011	0.1368	CA14	carbonic anhydrase XIV
+17003401	5.47	4.77	1.62	0.0011	0.1368	LOC202181	SUMO-interacting motifs containing 1 pseudogene
+16701775	3.84	4.44	-1.52	0.0011	0.1368	IDI2-AS1	IDI2 antisense RNA 1
+17084669	5.39	6.18	-1.72	0.0011	0.1368	RUSC2	RUN and SH3 domain containing 2
+16911804	6.59	5.98	1.53	0.0012	0.1392	SLC24A3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3
+16680017	5.6	6.39	-1.73	0.0013	0.1467	PERM1	PPARGC1 and ESRR induced regulator, muscle 1
+16740950	3.71	2.99	1.65	0.0014	0.1516		
+16961872	4.53	3.66	1.83	0.0015	0.1525	CCDC39	coiled-coil domain containing 39
+17016221	4.71	5.53	-1.77	0.0015	0.1525	FAM65B	family with sequence similarity 65, member B
+16953012	4.46	5.09	-1.55	0.0016	0.1579	PRSS42	protease, serine 42
+16731441	6.55	5.94	1.53	0.0016	0.1587	ZBTB16	zinc finger and BTB domain containing 16
+16771045	2.86	1.95	1.88	0.0016	0.1600		
+17125246	3.03	3.66	-1.54	0.0016	0.1603		
+17060543	6.12	5.51	1.52	0.0016	0.1603		
+17005167	4.2	3.54	1.58	0.0017	0.1623		
+16989568	5.63	6.42	-1.73	0.0017	0.1644	NPY6R	neuropeptide Y receptor Y6 (pseudogene)
+17072159	6.45	5.86	1.5	0.0018	0.1644		
+16859698	6.62	5.92	1.62	0.0018	0.1657	ARRDC2	arrestin domain containing 2
+16729838	1.21	1.92	-1.64	0.0018	0.1657		
+17120960	2.75	3.52	-1.7	0.0019	0.1691		
+17119356	3.28	2.55	1.65	0.0020	0.1725		
+16976300	7.73	8.37	-1.55	0.0020	0.1726	TECRL	trans-2,3-enoyl-CoA reductase-like
+17062971	2.77	2.09	1.61	0.0021	0.1788		
+16963113	8.87	8.28	1.5	0.0022	0.1799	APOD	apolipoprotein D
+16687618	6.51	7.37	-1.81	0.0023	0.1862	DHCR24	24-dehydrocholesterol reductase
+16711517	3.84	3.02	1.77	0.0024	0.1921	LOC101928080	uncharacterized LOC101928080
+17051189	3.91	3.25	1.58	0.0024	0.1924		
+17117636	2.17	1.58	1.51	0.0025	0.1934	RPS6KA5	ribosomal protein S6 kinase, 90kDa, polypeptide 5
+17025477	1.65	2.37	-1.65	0.0025	0.1942	DKFZp451B082	uncharacterized LOC401282
+16818610	5.41	6.12	-1.64	0.0026	0.1961	GPT2	glutamic pyruvate transaminase (alanine aminotransferase) 2
+16707601	3.12	4	-1.84	0.0028	0.2015	LGI1	leucine-rich, glioma inactivated 1
+16674267	1.57	2.27	-1.62	0.0029	0.2036	TEX35	testis expressed 35
+17055140	4.09	3.39	1.62	0.0029	0.2036	COL28A1	collagen, type XXVIII, alpha 1
+16691877	3.06	1.78	2.44	0.0029	0.2036	RNU1-13P	RNA, U1 small nuclear 13, pseudogene
+16692446	3.06	1.78	2.44	0.0029	0.2036	RNU1-13P	RNA, U1 small nuclear 13, pseudogene
+16913572	7.05	6.32	1.66	0.0029	0.2036	SNORA60	small nucleolar RNA, H/ACA box 60
+17120450	3.48	2.6	1.84	0.0030	0.2048		
+16875599	10.54	11.29	-1.69	0.0030	0.2054	TNNT1	troponin T type 1 (skeletal, slow)
+16684087	1.93	1.17	1.69	0.0030	0.2062		
+16909520	8.17	7.48	1.62	0.0031	0.2068	SNORA75	small nucleolar RNA, H/ACA box 75
+16839443	3.5	2.87	1.54	0.0031	0.2070		
+16827227	6.18	4.95	2.34	0.0031	0.2079	RRAD	Ras-related associated with diabetes
+16800702	2.19	2.95	-1.69	0.0032	0.2095		
+17018497	7.26	6.54	1.65	0.0032	0.2098	FKBP5	FK506 binding protein 5
+16736798	2.83	2.09	1.67	0.0033	0.2126	BBOX1-AS1	BBOX1 antisense RNA 1
+16746217	4.25	3.35	1.86	0.0033	0.2137		
+16688195	4.11	3.24	1.82	0.0034	0.2145	LINC01359	long intergenic non-protein coding RNA 1359
+16953024	10.04	10.69	-1.56	0.0034	0.2154	MYL3	myosin, light chain 3, alkali; ventricular, skeletal, slow
+16853855	3.2	2.61	1.5	0.0035	0.2177		
+17117533	6.14	5.41	1.65	0.0036	0.2190	ZBTB16	zinc finger and BTB domain containing 16
+16824548	5.06	4.46	1.51	0.0036	0.2205		
+16892288	6.85	5.55	2.46	0.0038	0.2229	CHRND	cholinergic receptor, nicotinic delta
+17054436	2.71	1.92	1.73	0.0038	0.2234		
+16951046	4.71	5.37	-1.58	0.0039	0.2271	GRIP2	glutamate receptor interacting protein 2
+16700125	1.81	2.42	-1.53	0.0041	0.2330	LOC105373122	uncharacterized LOC105373122
+17125286	2.28	3.15	-1.83	0.0041	0.2335		
+17092579	3.68	2.9	1.72	0.0045	0.2431	TTC39B	tetratricopeptide repeat domain 39B
+17012045	4.47	3.55	1.89	0.0045	0.2431		
+16663051	1.55	2.15	-1.51	0.0045	0.2431	ZFP69B	ZFP69 zinc finger protein B
+16870978	1.54	0.95	1.5	0.0045	0.2438	ZNF675	zinc finger protein 675
+16702175	7.09	6.16	1.91	0.0046	0.2451	PFKFB3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3
+16945868	0.8	1.38	-1.5	0.0047	0.2461		
+16954947	7.01	7.68	-1.59	0.0049	0.2484	ITIH4	inter-alpha-trypsin inhibitor heavy chain family, member 4
+16709050	1.97	2.61	-1.55	0.0049	0.2488		
+16916605	2.78	2.11	1.59	0.0051	0.2537	CPXM1	carboxypeptidase X (M14 family), member 1
+16788685	4.26	3.38	1.85	0.0051	0.2537	SNORD114-22	small nucleolar RNA, C/D box 114-22
+16980762	4.04	3.02	2.03	0.0051	0.2537	SFRP2	secreted frizzled-related protein 2
+16859763	3.24	2.46	1.71	0.0053	0.2552	IFI30	interferon, gamma-inducible protein 30
+16687726	2.51	3.15	-1.56	0.0053	0.2555	LOC105378742	uncharacterized LOC105378742
+16700713	6.14	5.5	1.56	0.0053	0.2558	SNORA14B	small nucleolar RNA, H/ACA box 14B
+16844674	3.71	4.45	-1.67	0.0056	0.2585	KRT31	keratin 31, type I
+16895111	4.27	3.64	1.55	0.0060	0.2623	LOC105374325	uncharacterized LOC105374325
+16907038	3.61	2.73	1.84	0.0061	0.2644		
+16687899	4.65	3.6	2.07	0.0066	0.2735	HSD52	uncharacterized LOC729467
+17025973	2.86	3.57	-1.64	0.0066	0.2738	LOC105378151	uncharacterized LOC105378151
+16804157	1.37	2.06	-1.61	0.0068	0.2774	LOC440300; LOC102724191	chondroitin sulfate proteoglycan 4 pseudogene; chondroitin sulfate proteoglycan 4-like
+16918569	6.47	5.72	1.68	0.0068	0.2777	GGT7	gamma-glutamyltransferase 7
+16906471	6.66	5.96	1.62	0.0073	0.2867	MSTN	myostatin
+16790917	1.54	2.55	-2.01	0.0074	0.2893	MIR208B	microRNA 208b
+16780271	5.18	4.58	1.51	0.0074	0.2894	ABCC4	ATP binding cassette subfamily C member 4
+16708007	7.38	9	-3.08	0.0075	0.2908	ANKRD2	ankyrin repeat domain 2 (stretch responsive muscle)
+16988728	5.44	4.65	1.73	0.0077	0.2938	MEGF10	multiple EGF-like-domains 10
+16829728	6.3	6.89	-1.5	0.0079	0.2982	ASPA	aspartoacylase
+17093681	6.64	6.02	1.54	0.0080	0.3005	FAM166B	family with sequence similarity 166, member B
+16884301	2.3	1.68	1.53	0.0081	0.3008		
+16676150	7.91	6.86	2.07	0.0084	0.3054	BTG2	BTG family, member 2
+16688330	3.06	2.05	2.02	0.0084	0.3054		
+16944926	2.94	3.56	-1.54	0.0085	0.3064		
+17033894	2.22	2.87	-1.57	0.0086	0.3079		
+17023810	4.98	5.67	-1.61	0.0088	0.3097	SGK1	serum/glucocorticoid regulated kinase 1
+17044793	2.87	2.18	1.61	0.0088	0.3107	MIR550A1	microRNA 550a-1
+16694357	4.94	4.36	1.5	0.0090	0.3127	SNORA80E	small nucleolar RNA, H/ACA box 80E
+17122198	2.86	2.2	1.58	0.0092	0.3157		
+16846587	6.27	5.61	1.59	0.0093	0.3163	COL1A1	collagen, type I, alpha 1
+17019543	1.9	2.54	-1.56	0.0093	0.3164	LOC101929705	uncharacterized LOC101929705
+16836624	3.45	2.69	1.7	0.0097	0.3223	MIR21; VMP1	microRNA 21; vacuole membrane protein 1
+17119758	3.51	2.68	1.77	0.0099	0.3265		
+16678320	2.33	2.99	-1.58	0.0105	0.3375	MIR3620; ARF1	microRNA 3620; ADP-ribosylation factor 1
+16881838	3.09	3.76	-1.59	0.0107	0.3392	HK2	hexokinase 2
+16891627	3.66	2.87	1.73	0.0108	0.3392	NYAP2	neuronal tyrosine-phosphorylated phosphoinositide-3-kinase adaptor 2
+16841212	6.02	2.78	9.45	0.0108	0.3392	MYH8	myosin, heavy chain 8, skeletal muscle, perinatal
+17120100	6.91	6.29	1.54	0.0108	0.3392		
+16823043	4.43	3.82	1.52	0.0109	0.3414	SNHG19	small nucleolar RNA host gene 19
+16833488	2.52	3.11	-1.51	0.0115	0.3495	MRM1	mitochondrial rRNA methyltransferase 1
+16674689	2.92	2.29	1.56	0.0116	0.3504		
+16812929	4.53	5.23	-1.62	0.0117	0.3517	LOC102724465; LOC105370956	uncharacterized LOC102724465; uncharacterized LOC105370956
+16978236	4.27	3.69	1.5	0.0117	0.3520	ADH1B	alcohol dehydrogenase 1B (class I), beta polypeptide
+17121924	3.8	2.61	2.29	0.0121	0.3546		
+16687734	3.62	4.31	-1.61	0.0122	0.3564		
+16690908	3.17	3.78	-1.53	0.0125	0.3580	KCND3	potassium channel, voltage gated Shal related subfamily D, member 3
+16999456	5.23	4.49	1.66	0.0130	0.3609		
+16908449	7.75	7.11	1.56	0.0130	0.3612	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit
+17108816	3.75	4.54	-1.73	0.0135	0.3637	MXRA5	matrix-remodelling associated 5
+16937621	2.69	1.67	2.03	0.0137	0.3654		
+16906031	3.66	4.3	-1.56	0.0138	0.3654	ZNF385B	zinc finger protein 385B
+17122968	2.42	3.12	-1.62	0.0140	0.3661		
+16985748	3.44	2.83	1.52	0.0144	0.3703	LOC728093; LOC643784; LOC102725182	putative POM121-like protein 1-like; NLR family, apoptosis inhibitory protein pseudogene
+16759855	3.23	3.86	-1.54	0.0146	0.3716	NINJ2	ninjurin 2
+16870772	2.11	1.37	1.67	0.0146	0.3717		
+16762126	3.19	4	-1.76	0.0148	0.3723	LDHB	lactate dehydrogenase B
+17120096	2.53	1.85	1.6	0.0151	0.3760		
+16859711	3.16	2.56	1.52	0.0153	0.3770	MAST3	microtubule associated serine/threonine kinase 3
+17062253	3.47	2.57	1.87	0.0154	0.3770		
+16767981	3.6	4.24	-1.56	0.0160	0.3818		
+16855015	4.49	5.18	-1.62	0.0167	0.3890	ST8SIA5	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5
+16687914	4.66	5.46	-1.73	0.0169	0.3905	CYP2J2	cytochrome P450, family 2, subfamily J, polypeptide 2
+17125822	1.59	0.87	1.65	0.0179	0.3973		
+16812869	1.63	1	1.55	0.0190	0.4044		
+16920156	5.46	4.81	1.57	0.0199	0.4107	PTGIS	prostaglandin I2 (prostacyclin) synthase
+16984905	2.17	2.81	-1.56	0.0217	0.4230	IL31RA	interleukin 31 receptor A
+17058268	4.07	4.75	-1.6	0.0222	0.4259		
+16858208	4.51	3.85	1.58	0.0224	0.4272	MIR1238	microRNA 1238
+16696575	4.2	3.28	1.9	0.0226	0.4280		
+17080674	3.09	3.75	-1.58	0.0230	0.4309	LINC01151	long intergenic non-protein coding RNA 1151
+17052625	3.77	4.53	-1.7	0.0233	0.4330	TRBV24-1	T cell receptor beta variable 24-1
+17069865	3.57	4.17	-1.52	0.0249	0.4403	LOC101929759	uncharacterized LOC101929759
+16834632	1.44	2.12	-1.59	0.0253	0.4418		
+16685868	5.25	5.84	-1.51	0.0255	0.4418	CITED4	Cbp/p300-interacting transactivator, with Glu/Asp rich carboxy-terminal domain, 4
+16927151	4.22	4.82	-1.52	0.0257	0.4424	TANGO2	transport and golgi organization 2 homolog
+17035366	2.88	2.16	1.65	0.0258	0.4434		
+16980160	3.73	4.33	-1.52	0.0259	0.4436	INPP4B	inositol polyphosphate-4-phosphatase type II B
+17072723	2.15	1.38	1.71	0.0266	0.4479		
+17119698	2.15	1.38	1.71	0.0266	0.4479		
+16819909	4.78	5.43	-1.57	0.0269	0.4484	CES3	carboxylesterase 3
+16932821	4.45	3.83	1.54	0.0272	0.4507	YPEL1	yippee like 1
+16702208	2.58	1.85	1.66	0.0284	0.4563		
+16785696	4.4	3.12	2.43	0.0294	0.4632	ARG2	arginase 2
+17022896	1.01	1.66	-1.57	0.0296	0.4642		
+16675158	5.5	4.64	1.81	0.0305	0.4675	PRG4	proteoglycan 4
+16854183	4.55	5.35	-1.74	0.0310	0.4696		
+16780783	2.3	1.61	1.61	0.0322	0.4734	METTL21C	methyltransferase like 21C
+16702836	4.22	3.58	1.56	0.0326	0.4750	MRC1	mannose receptor, C type 1
+16929507	1.23	1.85	-1.54	0.0332	0.4764		
+16718938	3.85	3.27	1.5	0.0338	0.4781	RGS10	regulator of G-protein signaling 10
+16702257	2.49	3.29	-1.74	0.0342	0.4785	LINC00707	long intergenic non-protein coding RNA 707
+16959575	4.41	3.69	1.65	0.0353	0.4847		
+16788576	3.03	3.64	-1.52	0.0359	0.4867	SNORD113-3	small nucleolar RNA, C/D box 113-3
+16716367	1.65	0.99	1.58	0.0363	0.4883		
+17114014	4.12	4.89	-1.69	0.0372	0.4913	LOC105373334	uncharacterized LOC105373334
+16927869	3.55	2.55	2	0.0373	0.4916	IGLC7	immunoglobulin lambda constant 7
+17005072	3.31	4.13	-1.77	0.0385	0.4959		
+17120090	3.71	2.97	1.67	0.0386	0.4968		
+16853375	6.51	5.86	1.57	0.0389	0.4979		
+16900183	4.01	4.64	-1.55	0.0410	0.5060	LOC654342; LOC645166	lymphocyte-specific protein 1 pseudogene
+17095414	1.66	1.01	1.57	0.0418	0.5095	LOC102724057	uncharacterized LOC102724057
+17068424	3.59	4.37	-1.72	0.0426	0.5137	MIR486-2	microRNA 486-2
+17119688	3.59	4.37	-1.72	0.0426	0.5137		
+16810884	3.24	2.52	1.65	0.0427	0.5137		
+17117453	4.44	3.84	1.52	0.0435	0.5153		
+16892305	6.01	5.26	1.68	0.0437	0.5153	CHRNG	cholinergic receptor, nicotinic gamma
+17025264	4.36	5.09	-1.66	0.0447	0.5179		
+16669781	5.84	5.18	1.58	0.0448	0.5179	NBPF19; NOTCH2NL; NBPF14	neuroblastoma breakpoint family, member 19; notch 2 N-terminal like; neuroblastoma breakpoint family, member 14
+17119212	2.09	1.38	1.64	0.0450	0.5180		
+16711907	2.34	1.69	1.58	0.0453	0.5196		
+17065851	1.71	2.33	-1.54	0.0459	0.5196	FAM66D	family with sequence similarity 66, member D
+16733068	2.87	2.03	1.79	0.0464	0.5204		
+16808300	3.28	2.61	1.59	0.0464	0.5204		
+16862118	3.09	3.77	-1.6	0.0498	0.5296	LGALS17A	Charcot-Leyden crystal protein pseudogene
+17006580	3.07	2.42	1.57	0.0506	0.5337	HCG27	HLA complex group 27 (non-protein coding)
+16982180	4.19	3.35	1.8	0.0507	0.5337	LOC105377624	uncharacterized LOC105377624
+16819747	6.73	6.02	1.63	0.0519	0.5380		
+16990199	3.55	2.84	1.64	0.0525	0.5404	VTRNA1-1	vault RNA 1-1
+16691627	2.18	2.98	-1.74	0.0554	0.5463	HMGCS2	3-hydroxy-3-methylglutaryl-CoA synthase 2 (mitochondrial)
+16763512	6.02	6.71	-1.61	0.0573	0.5507	SLC38A1	solute carrier family 38, member 1
+16701037	4.26	3.58	1.6	0.0589	0.5538	GREM2	gremlin 2, DAN family BMP antagonist
+17009563	4.53	3.87	1.59	0.0596	0.5560	MIR206	microRNA 206
+17095056	2.72	1.97	1.69	0.0600	0.5565	PRUNE2	prune homolog 2 (Drosophila)
+16905273	6.18	5.48	1.63	0.0617	0.5613	CHRNA1	cholinergic receptor, nicotinic alpha 1
+17027880	3.27	2.65	1.54	0.0639	0.5647		
+17033410	3.27	2.65	1.54	0.0639	0.5647		
+17038203	3.27	2.65	1.54	0.0639	0.5647		
+17040798	3.27	2.65	1.54	0.0639	0.5647		
+16832421	2.7	1.99	1.64	0.0661	0.5679		
+16787882	4.54	5.14	-1.52	0.0689	0.5718	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5
+16763467	3.18	3.79	-1.53	0.0716	0.5770	PLEKHA8P1	pleckstrin homology domain containing, family A member 8 pseudogene 1
+16973058	1.95	3.01	-2.09	0.0722	0.5792	KLKB1	kallikrein B1
+16778625	3.66	2.91	1.68	0.0722	0.5792	LINC00390	long intergenic non-protein coding RNA 390
+17017924	3.76	3.05	1.64	0.0791	0.5892	MIR3135B	microRNA 3135b
+17027089	3.76	3.05	1.64	0.0791	0.5892		
+17029733	3.76	3.05	1.64	0.0791	0.5892		
+17042431	3.76	3.05	1.64	0.0791	0.5892		
+16882553	2.12	2.82	-1.62	0.0792	0.5895	MIR4771-1; MIR4771-2	microRNA 4771-1; microRNA 4771-2
+16901892	2.12	2.82	-1.62	0.0792	0.5895	MIR4771-1; MIR4771-2	microRNA 4771-1; microRNA 4771-2
+17068426	6.66	5.72	1.92	0.0820	0.5968		
+16776959	2.05	2.82	-1.72	0.0822	0.5969	GAS6-AS1	GAS6 antisense RNA 1
+17098220	3.5	4.27	-1.71	0.0834	0.5984		
+16916221	1.62	2.31	-1.61	0.0876	0.6054	TCEA2	transcription elongation factor A (SII), 2
+16773032	2.45	1.84	1.53	0.0889	0.6066		
+17119106	3.53	4.21	-1.61	0.0923	0.6117		
+16773621	4.79	4.13	1.57	0.0924	0.6117		
+17118906	4.79	4.13	1.57	0.0924	0.6117		
+17019479	1.84	1.2	1.57	0.0925	0.6117		
+16968403	2.12	2.79	-1.59	0.0975	0.6179		
+16890701	3.66	4.5	-1.8	0.0980	0.6187	LOC101928327	uncharacterized LOC101928327
